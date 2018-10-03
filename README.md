@@ -11,7 +11,7 @@ O projeto ficou em primeiro lugar no **Hackathon Shopping Recife 2018**, primeir
 
 Íris foi criada para ser multi-plataforma para que qualquer consumidor tenha acesso a ela, sem a necessidade de instalação de aplicações terceiras.
 
-![](https://im5.ezgif.com/tmp/ezgif-5-11ab42de4aa5.gif)
+![](https://im5.ezgif.com/tmp/ezgif-5-b29bca7e41d1.gif)
 
 A Íris foi desenvolvida utilizando as seguintes ferramentas:
 - [Dialogflow](https://dialogflow.com/): Para desenho e desenvolvimento das interações do chatbot;
